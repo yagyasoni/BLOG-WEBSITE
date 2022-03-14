@@ -1,0 +1,2 @@
+# BLOG-WEBSITE
+• Created a blog website using Django for the backend and also used the Django template language for the frontend.  • Django Framework is used because it is a high-level python web framework that enables rapid development of secure and maintainable websites and many libraries can be implemented using this.  • This blog application will allow us to create, modify and delete blog posts. 
